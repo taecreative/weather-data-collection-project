@@ -1,0 +1,33 @@
+City,Date,Temp (F),Temp Max (F),Temp Min (F),Humidity,Wind Speed,Precipitation,Description
+"Orlando,FL",2025-02-22,58.3,70.0,46.2,68.2,12.7,0.0,Partially cloudy
+"Orlando,FL",2025-02-23,63.2,75.7,52.0,66.2,13.7,0.0,Clear
+"Orlando,FL",2025-02-24,62.1,64.2,59.2,91.3,16.0,0.88,"Rain, Partially cloudy"
+"Orlando,FL",2025-02-25,62.5,68.0,57.7,84.7,12.4,0.028,"Rain, Partially cloudy"
+"Orlando,FL",2025-02-26,66.5,78.8,53.7,68.2,10.2,0.0,Clear
+"Orlando,FL",2025-02-27,69.9,82.0,59.0,67.9,14.4,0.0,Partially cloudy
+"Orlando,FL",2025-02-28,66.9,77.1,60.1,58.2,11.5,0.0,Clear
+"Orlando,FL",2025-03-01,64.7,74.7,56.7,55.8,11.1,0.0,Clear
+"Orlando,FL",2025-03-02,65.2,76.8,56.7,65.1,15.2,0.0,Clear
+"Orlando,FL",2025-03-03,63.3,76.0,52.0,66.3,15.9,0.0,Partially cloudy
+"Orlando,FL",2025-03-04,68.7,77.9,60.2,70.6,21.1,0.0,Partially cloudy
+"Orlando,FL",2025-03-05,70.3,80.1,64.9,71.8,21.9,0.028,"Rain, Partially cloudy"
+"Orlando,FL",2025-03-06,61.3,69.2,53.2,44.6,23.1,0.0,Clear
+"Orlando,FL",2025-03-07,62.0,75.7,48.7,48.7,8.2,0.0,Clear
+"Orlando,FL",2025-03-08,68.3,81.0,55.6,45.5,7.6,0.0,Partially cloudy
+"Orlando,FL",2025-03-09,72.1,83.0,60.5,70.2,12.3,0.0,Partially cloudy
+"Las Vegas,NV",2025-02-22,55.3,66.2,45.2,24.8,6.7,0.0,Clear
+"Las Vegas,NV",2025-02-23,58.3,73.0,44.7,25.6,5.1,0.0,Clear
+"Las Vegas,NV",2025-02-24,63.2,78.4,50.1,22.7,6.4,0.0,Clear
+"Las Vegas,NV",2025-02-25,67.3,80.4,54.2,18.4,10.5,0.0,Clear
+"Las Vegas,NV",2025-02-26,65.0,75.1,56.2,11.4,17.3,0.0,Clear
+"Las Vegas,NV",2025-02-27,61.6,72.3,51.4,13.3,15.4,0.0,Clear
+"Las Vegas,NV",2025-02-28,62.0,74.7,48.9,16.0,8.7,0.0,Clear
+"Las Vegas,NV",2025-03-01,64.2,74.3,55.7,15.8,6.9,0.0,Clear
+"Las Vegas,NV",2025-03-02,58.7,65.2,52.4,24.7,32.0,0.0,Clear
+"Las Vegas,NV",2025-03-03,53.5,59.9,47.8,35.3,26.3,0.0,Partially cloudy
+"Las Vegas,NV",2025-03-04,57.9,67.6,47.9,29.6,14.3,0.0,Clear
+"Las Vegas,NV",2025-03-05,56.2,66.5,47.5,39.6,17.1,0.018,"Rain, Partially cloudy"
+"Las Vegas,NV",2025-03-06,52.2,56.1,47.9,45.0,20.8,0.04,"Rain, Partially cloudy"
+"Las Vegas,NV",2025-03-07,52.3,60.3,43.1,36.2,19.4,0.0,Partially cloudy
+"Las Vegas,NV",2025-03-08,55.5,65.2,47.2,24.0,18.9,0.0,Clear
+"Las Vegas,NV",2025-03-09,55.8,68.2,43.0,26.9,8.1,0.0,Clear
